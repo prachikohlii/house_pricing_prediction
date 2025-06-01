@@ -1,7 +1,5 @@
 # Rooftop Values: House Pricing Prediction
-
-
-Unleashed is a Streamlit-powered web app that performs **in-depth sentiment analysis** and **competitive benchmarking** of consumer electronics products using customer reviews. Designed for tech enthusiasts, product analysts, and businesses, it transforms raw feedback into actionable insights.
+Rooftop Values: House pricing prediction is a minor project in which the use has to enter various parameters for a house and predict its price. The model is trained using linear regression and using a dataset from kaggle 
 
 🌐 **Live Demo**: [Click to try the app](https://housepricingprediction-hy3pscsayeglgtdjxs6jfb.streamlit.app/)
 
@@ -11,8 +9,8 @@ Unleashed is a Streamlit-powered web app that performs **in-depth sentiment anal
 Run the following commands one by one in your Terminal 
 ```bash
 # Clone the repo
-git clone https://github.com/prachikohlii/house-pricing-prediction.git
-cd house-pricing-prediction
+git clone https://github.com/prachikohlii/house_pricing_prediction.git
+cd house_pricing_prediction
 
 # Run the app
 streamlit run rooftop_values.py
@@ -21,7 +19,10 @@ streamlit run rooftop_values.py
 
 ## 📦 Requirements
 ```txt
-
+streamlit
+scikit-learn
+pandas
+numpy
 ```
 ---
 ## 🔗 Connect
