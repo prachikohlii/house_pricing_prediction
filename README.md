@@ -1,5 +1,5 @@
 # Rooftop Values: House Pricing Prediction
-Rooftop Values: House pricing prediction is a minor project in which the use has to enter various parameters for a house and predict its price. The model is trained using linear regression and using a dataset from kaggle 
+Rooftop Values: House pricing prediction is a minor project in which the use has to enter various parameters for a house and predict its price. The model is trained using linear regression and using a dataset from kaggle. 
 
 🌐 **Live Demo**: [Click to try the app](https://housepricingprediction-hy3pscsayeglgtdjxs6jfb.streamlit.app/)
 
